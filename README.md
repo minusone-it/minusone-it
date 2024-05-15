@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leokotnia
-- 👀 I’m interested in Minecraft and Car games!
-- 🌱 I’m currently learning Java, HTML, CSS and JS.
+- 👋 Hi, I’m @lunarstonks
+- 👀 I’m interested in Minecraft, FPS and Car Games!
+- 🌱 I’m currently learning Java.
 
 <!---
 leocontiei/leocontiei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
