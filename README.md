@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @minusone-it
 - 👀 I’m interested in Minecraft, FPS and Car Games!
-- 🌱 I’m currently learning Java.
+- </> I currently know good Java;
+- 🌱 I’m currently learning C++.
 
 <!---
 leocontiei/leocontiei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
